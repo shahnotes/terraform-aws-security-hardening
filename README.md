@@ -27,7 +27,7 @@ This project automates the provisioning and security hardening of AWS infrastruc
      │ Push/PR
      ▼
 ┌──────────────┐     ┌──────────────────┐
-│ GitHub CI/CD ├────▶ Terraform + Scans│
+│ GitHub CI/CD ├────▶ Terraform + Scans │
 └────┬─────────┘     └────┬─────────────┘
      │                    │
      ▼                    ▼
